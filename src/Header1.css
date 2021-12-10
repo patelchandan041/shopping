@@ -1,0 +1,54 @@
+.header{
+    display: flex;
+    flex-direction: column;
+    position: sticky;
+    top: 0;
+}
+nav{
+    background-color: black;
+}
+.header1 {
+    height: 30px;
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 900px;
+    }
+.header1 > p5{
+    cursor: pointer;
+    margin-left: 50px;
+    font-size: 12px;
+    font-weight: bolder;
+    }
+
+.header1 > p5:hover{
+    border-bottom: 1px solid white;
+}
+.header2{
+    height: 50px;
+    display: flex;
+    align-items: center;
+   background-color: white;
+    }
+
+    .header2 > p{
+        cursor: pointer;
+        font-size: 25px;
+        font-weight: bolder;
+        margin-left: 60px;
+    }
+    nav1{
+        margin-left: 650px;
+        display: flex;
+        flex-direction: row;
+     
+    }
+    
+    nav1 > p{
+        margin-left: 100px;
+        cursor: pointer
+        ;
+    }
+    

@@ -1,0 +1,20 @@
+.header2{
+display: flex;
+align-items: center;
+position: sticky;
+top: 0;
+}
+.header2 > p{
+    font-size: 25px;
+    font-weight: bolder;
+}
+nav1{
+    margin-left: 650px;
+    display: flex;
+    flex-direction: row;
+ 
+}
+
+nav1 > p{
+    margin-left: 100px;
+}

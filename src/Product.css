@@ -1,0 +1,8 @@
+.product{
+  margin: 30px;
+}
+.product__image{
+width: 380px;
+border-top-right-radius: 10px; 
+border-top-left-radius: 10px;
+}
